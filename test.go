@@ -1,4 +1,4 @@
-package clusterTest
+package github.com/zhangfuwen/clusterTest
 
 import (
 	"reflect"
