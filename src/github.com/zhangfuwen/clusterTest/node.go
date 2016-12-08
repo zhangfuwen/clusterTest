@@ -1,4 +1,4 @@
-package github.com/zhangfuwen/clusterTest
+package clusterTest
 
 import (
 	"github.com/zhangfuwen/sshutils/host"
